@@ -1,5 +1,3 @@
-# amdefine
-
 Images in the CSS file path can be converted into an absolute path, and add the CDN prefix
 
 ## Install
